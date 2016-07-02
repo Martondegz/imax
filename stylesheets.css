@@ -1,7 +1,7 @@
 #page {
-    background-image: url(images/image2.jpeg);
+    background-image: url(images/image6.jpeg);
     width: 100%;
-    height: 100%;
+    height: 10%;
     min-height: 100%;
     margin: 0 auto;
     position: relative;
@@ -33,7 +33,8 @@ h3 {
 }
 
 .content {
-    background-color: aqua;
+    background-color: black;
+    color: white;
 }
 
 .top {
